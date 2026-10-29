@@ -1,0 +1,3368 @@
+{
+ "zrodla": [
+  "Jadłospis 01.08.2026",
+  "Jadłospis 04.09.2026"
+ ],
+ "przepisy": [
+  {
+   "id": "bardzo-zielona-salatka-jajka-sadzone",
+   "nazwa": "Bardzo zielona sałatka, jajka sadzone",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 580.0,
+   "B": 37.0,
+   "T": 27.0,
+   "W": 50.0,
+   "zdjecie": "img/bardzo-zielona-salatka-jajka-sadzone.jpg",
+   "skladniki": [
+    {
+     "n": "Fasolka szparagowa",
+     "g": 100.0,
+     "q": 100.0,
+     "u": "g",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Fasolka szparagowa"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Rukola",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Cukinia",
+     "g": 100.0,
+     "q": 10.0,
+     "u": "plaster",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cukinia"
+    },
+    {
+     "n": "Pestki dyni",
+     "g": 15.0,
+     "q": 1.5,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Pestki dyni"
+    },
+    {
+     "n": "Jajko kurze",
+     "g": 100.0,
+     "q": 2.0,
+     "u": "średnia sztuka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jajka"
+    },
+    {
+     "n": "Oregano suszone",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "g",
+     "dzial": "Przyprawy",
+     "zakup": "Oregano suszone"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 80.0,
+     "q": 2.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Łosoś wędzony",
+     "g": 50.0,
+     "q": 2.0,
+     "u": "plaster",
+     "dzial": "Mięso i ryby",
+     "zakup": "Łosoś wędzony"
+    }
+   ],
+   "kroki": [
+    "Fasolkę{0} rozmrozić i poddusić na oliwie z oliwek{1}.",
+    "Ułożyć rukolę{2} na talerzu, dodać kawałki podsmażonej cukinii{3}.",
+    "Posypać podprażonymi na suchej patelni nasionami słonecznika.",
+    "Jajka{5} usmażyć na nieprzywierającej patelni i podać do warzyw.",
+    "Zjeść z pieczywem{7} i łososiem{8}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "bardzo-zielona-salatka-jajka-sadzone-wersja-lzejsza",
+   "nazwa": "Bardzo zielona sałatka, jajka sadzone (wersja lżejsza)",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 448.0,
+   "B": 28.0,
+   "T": 25.0,
+   "W": 29.0,
+   "zdjecie": "img/bardzo-zielona-salatka-jajka-sadzone-wersja-lzejsza.jpg",
+   "skladniki": [
+    {
+     "n": "Fasola szparagowa",
+     "g": 50.0,
+     "q": 50.0,
+     "u": "g",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Fasolka szparagowa"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Szpinak",
+     "g": 25.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Szpinak"
+    },
+    {
+     "n": "Cukinia",
+     "g": 100.0,
+     "q": 10.0,
+     "u": "plaster",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cukinia"
+    },
+    {
+     "n": "Pestki dyni",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Pestki dyni"
+    },
+    {
+     "n": "Jajko kurze",
+     "g": 150.0,
+     "q": 3.0,
+     "u": "średnia sztuka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jajka"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 40.0,
+     "q": 1.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Bazylia suszona",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Bazylia suszona"
+    }
+   ],
+   "kroki": [
+    "Fasolkę{0} rozmrozić, poddusić na oliwie{1}.",
+    "Ułożyć na szpinaku{2}, dodać kawałki zgrillowanej cukinii{3}.",
+    "Posypać całość pestkami dyni{4}.",
+    "Jajka{5} usmażyć na nieprzywierającej patelni, podać do warzyw.",
+    "Sałatkę podać z grzankami z chleba{6}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "czekoladowy-omlet-budyniowy-z-jogurtem-i-malinami",
+   "nazwa": "Czekoladowy omlet budyniowy z jogurtem i malinami",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 592.0,
+   "B": 28.0,
+   "T": 41.0,
+   "W": 36.0,
+   "zdjecie": "img/czekoladowy-omlet-budyniowy-z-jogurtem-i-malinami.jpg",
+   "skladniki": [
+    {
+     "n": "Jajko kurze",
+     "g": 150.0,
+     "q": 3.0,
+     "u": "średnia sztuka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jajka"
+    },
+    {
+     "n": "Sól",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Budyń waniliowy bez cukru",
+     "g": 8.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Budyń waniliowy bez cukru"
+    },
+    {
+     "n": "Kakao w proszku",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Kakao w proszku"
+    },
+    {
+     "n": "Jogurt grecki",
+     "g": 100.0,
+     "q": 0.3,
+     "u": "opakowanie",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jogurt grecki"
+    },
+    {
+     "n": "Migdały",
+     "g": 15.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Migdały"
+    },
+    {
+     "n": "Maliny",
+     "g": 120.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Maliny"
+    },
+    {
+     "n": "Masło klarowane (ghee)",
+     "g": 7.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Masło klarowane (ghee)"
+    }
+   ],
+   "kroki": [
+    "Jajka{0} rozbić, oddzielić białka od żółtek. Białka ubić ze szczyptą soli{1} na sztywno.",
+    "W miseczce wymieszać żółtka z kakao{3} oraz proszkiem budyniowym{2}.",
+    "Następnie partiami dodawać pianę z białek, za każdym razem delikatnie ją wymieszać.",
+    "Na patelnię z ghee{7} wylać masę jajeczną, równomiernie ją rozprowadzić, zmniejszyć ogień i smażyć przez kilka minut.",
+    "Podpieczony od dołu omlet zsunąć na duży talerz, przykryć go patelnią i odwrócić, tak aby na dnie patelni znalazła się nieusmażona strona. Smażyć ok. 2 minuty.",
+    "Omlet podawać z jogurtem{4}, owocami i migdałami{5}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "fasolka-szparagowa-z-jajkiem-i-feta",
+   "nazwa": "Fasolka szparagowa z jajkiem i fetą",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 499.0,
+   "B": 28.0,
+   "T": 29.0,
+   "W": 34.0,
+   "zdjecie": "img/fasolka-szparagowa-z-jajkiem-i-feta.jpg",
+   "skladniki": [
+    {
+     "n": "Fasola szparagowa",
+     "g": 90.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Fasolka szparagowa"
+    },
+    {
+     "n": "Jajko kurze",
+     "g": 100.0,
+     "q": 2.0,
+     "u": "średnia sztuka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jajka"
+    },
+    {
+     "n": "Rukola",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Ser Feta",
+     "g": 30.0,
+     "q": 1.5,
+     "u": "plaster",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser Feta"
+    },
+    {
+     "n": "Pestki dyni",
+     "g": 15.0,
+     "q": 1.5,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Pestki dyni"
+    },
+    {
+     "n": "Pomidory koktajlowe",
+     "g": 100.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidory koktajlowe"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 40.0,
+     "q": 1.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    }
+   ],
+   "kroki": [
+    "Fasolkę{0} umyć i pokroić. Gotować w lekko osolonej wodzie przez 7-9 minut.",
+    "Jajka{1} ugotować na półtwardo, ostudzić w zimnej wodzie i obrać.",
+    "Na talerzu położyć sałatę{2} oraz ugotowaną fasolkę. Na fasolce położyć jajka przekrojone wzdłuż.",
+    "Całość posypać pokruszonym serem{4} i pestkami{5}.",
+    "Podawać z pomidorkami{6}, oliwą{3} i pieczywem{7}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "gotowane-jajka-z-awokado-i-papryka",
+   "nazwa": "Gotowane jajka z awokado i papryką",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 536.0,
+   "B": 32.0,
+   "T": 24.0,
+   "W": 52.0,
+   "zdjecie": "img/gotowane-jajka-z-awokado-i-papryka.jpg",
+   "skladniki": [
+    {
+     "n": "Jajko kurze",
+     "g": 100.0,
+     "q": 2.0,
+     "u": "średnia sztuka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jajka"
+    },
+    {
+     "n": "Awokado",
+     "g": 70.0,
+     "q": 0.5,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Awokado"
+    },
+    {
+     "n": "Sok z cytryny",
+     "g": 3.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cytryna (sok)"
+    },
+    {
+     "n": "Sól",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Pieprz czarny",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Pieprz czarny"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 80.0,
+     "q": 2.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Papryka czerwona",
+     "g": 60.0,
+     "q": 0.5,
+     "u": "średnia sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Papryka czerwona"
+    },
+    {
+     "n": "Ogórek",
+     "g": 80.0,
+     "q": 0.4,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Ogórek"
+    },
+    {
+     "n": "Szynka z indyka",
+     "g": 60.0,
+     "q": 4.0,
+     "u": "plaster",
+     "dzial": "Mięso i ryby",
+     "zakup": "Szynka z indyka"
+    },
+    {
+     "n": "Natka pietruszki",
+     "g": 12.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Natka pietruszki"
+    }
+   ],
+   "kroki": [
+    "Jajko{0} ugotować na półtwardo (5 min).",
+    "Awokado{1} rozgnieść widelcem, skropić sokiem z cytryny{2}, przyprawić odrobiną soli{3} i pieprzu{4} i natki pietruszki{9}.",
+    "Kanapkę{5} posmarować pastą, pokroić paprykę{6} i jajko.",
+    "Zjeść z szynką{8}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "jajecznica-na-szynce-z-warzywami",
+   "nazwa": "Jajecznica na szynce z warzywami",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 409.0,
+   "B": 32.0,
+   "T": 28.0,
+   "W": 10.0,
+   "zdjecie": "img/jajecznica-na-szynce-z-warzywami.jpg",
+   "skladniki": [
+    {
+     "n": "Szynka z indyka",
+     "g": 60.0,
+     "q": 4.0,
+     "u": "plaster",
+     "dzial": "Mięso i ryby",
+     "zakup": "Szynka z indyka"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Jajko kurze",
+     "g": 150.0,
+     "q": 3.0,
+     "u": "średnia sztuka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jajka"
+    },
+    {
+     "n": "Papryka czerwona",
+     "g": 120.0,
+     "q": 1.0,
+     "u": "średnia sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Papryka czerwona"
+    },
+    {
+     "n": "Rukola",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    }
+   ],
+   "kroki": [
+    "Szynkę{0} pokroić i podsmażyć chwilkę na oliwie{1} dodać jajko{2}.",
+    "Zjeść z warzywami."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "jajka-na-miekko-na-salatce-z-grzanka",
+   "nazwa": "Jajka na miękko na sałatce z grzanką",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 425.0,
+   "B": 26.0,
+   "T": 25.0,
+   "W": 26.0,
+   "zdjecie": "img/jajka-na-miekko-na-salatce-z-grzanka.jpg",
+   "skladniki": [
+    {
+     "n": "Jajko kurze",
+     "g": 150.0,
+     "q": 3.0,
+     "u": "średnia sztuka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jajka"
+    },
+    {
+     "n": "Sok z cytryny",
+     "g": 3.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cytryna (sok)"
+    },
+    {
+     "n": "Sól",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Ogórek",
+     "g": 90.0,
+     "q": 0.5,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Ogórek"
+    },
+    {
+     "n": "Szpinak",
+     "g": 25.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Szpinak"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 40.0,
+     "q": 1.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Rzodkiewka",
+     "g": 45.0,
+     "q": 3.0,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rzodkiewka"
+    },
+    {
+     "n": "Pestki dyni",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Pestki dyni"
+    },
+    {
+     "n": "Bazylia suszona",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Bazylia suszona"
+    }
+   ],
+   "kroki": [
+    "Jajka{0} ugotować na miękko - 8/9 minut od zimnej wody.",
+    "Kromkę chleba{6} podgrzać na suchej patelni. Następnie nałożyć szynkę i kilka plasterków ogórka{3} i rzodkiewki{7}.",
+    "Resztę pokrojonych warzyw wymieszać ze szpinakiem{4}, polać oliwą{5}, posypać pestkami{8} i doprawić.",
+    "Podawać grzankę z jajkami na sałatce."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "jajka-na-miekko-z-warzywami-i-tunczykiem",
+   "nazwa": "Jajka na miękko z warzywami i tuńczykiem",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 569.0,
+   "B": 41.0,
+   "T": 25.0,
+   "W": 49.0,
+   "zdjecie": "img/jajka-na-miekko-z-warzywami-i-tunczykiem.jpg",
+   "skladniki": [
+    {
+     "n": "Jajko kurze",
+     "g": 100.0,
+     "q": 2.0,
+     "u": "średnia sztuka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jajka"
+    },
+    {
+     "n": "Pomidory koktajlowe",
+     "g": 150.0,
+     "q": 1.5,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidory koktajlowe"
+    },
+    {
+     "n": "Oliwki czarne marynowane",
+     "g": 30.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Oliwki czarne marynowane"
+    },
+    {
+     "n": "Ogórek",
+     "g": 90.0,
+     "q": 0.5,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Ogórek"
+    },
+    {
+     "n": "Rukola",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Tuńczyk w sosie własnym",
+     "g": 85.0,
+     "q": 85.0,
+     "u": "g",
+     "dzial": "Suche",
+     "zakup": "Tuńczyk w sosie własnym"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 80.0,
+     "q": 2.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Bazylia suszona",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Bazylia suszona"
+    }
+   ],
+   "kroki": [
+    "Jajka{0} ugotować na miękko - 8/9 minut od zimnej wody.",
+    "Pomidorki{1} i oliwki{2} przekroić na pół, ogórki{3} w kostkę, wymieszać z sałatą{4} polać oliwą{5}.",
+    "Zjeść z kanapkami{7} i tuńczykiem{6}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "jajka-sadzone-na-szpinaku-z-serem",
+   "nazwa": "Jajka sadzone na szpinaku z serem",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 555.0,
+   "B": 36.0,
+   "T": 26.0,
+   "W": 47.0,
+   "zdjecie": "img/jajka-sadzone-na-szpinaku-z-serem.jpg",
+   "skladniki": [
+    {
+     "n": "Oliwa z oliwek",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Czosnek",
+     "g": 4.0,
+     "q": 1.0,
+     "u": "ząbek",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Czosnek"
+    },
+    {
+     "n": "Szpinak",
+     "g": 100.0,
+     "q": 4.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Szpinak"
+    },
+    {
+     "n": "Jajko kurze",
+     "g": 100.0,
+     "q": 2.0,
+     "u": "średnia sztuka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jajka"
+    },
+    {
+     "n": "Ser Pecorino romano (AH)",
+     "g": 20.0,
+     "q": 20.0,
+     "u": "g",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser Pecorino romano"
+    },
+    {
+     "n": "Pomidory koktajlowe",
+     "g": 100.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidory koktajlowe"
+    },
+    {
+     "n": "Bazylia suszona",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Bazylia suszona"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 80.0,
+     "q": 2.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Szynka z indyka",
+     "g": 60.0,
+     "q": 4.0,
+     "u": "plaster",
+     "dzial": "Mięso i ryby",
+     "zakup": "Szynka z indyka"
+    }
+   ],
+   "kroki": [
+    "Na patelnię wlać oliwę{0}, wrzucić przeciśnięty przez praskę czosnek{1}. Po chwili dodać szpinak{2} i mieszać delikatnie aż zmniejszy swoją objętość.",
+    "Następnie wbić jajka{3}, zmniejszyć ogień i przykryć pokrywką. Gdy białko będzie prawie ścięte, posypać serem{4} i przykryć jeszcze na chwilkę.",
+    "Gdy jajka są już gotowe (żółtko jest płynne), posypać chili.",
+    "Podawać z pieczywem{7}, szynką{8} i pomidorkami koktajlowymi{5}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "omlet-z-cukinia-i-serem",
+   "nazwa": "Omlet z cukinią i serem",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 496.0,
+   "B": 33.0,
+   "T": 31.0,
+   "W": 23.0,
+   "zdjecie": "img/omlet-z-cukinia-i-serem.jpg",
+   "skladniki": [
+    {
+     "n": "Jajko kurze",
+     "g": 100.0,
+     "q": 2.0,
+     "u": "średnia sztuka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jajka"
+    },
+    {
+     "n": "Sól",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Pieprz czarny",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Pieprz czarny"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Cukinia",
+     "g": 70.0,
+     "q": 7.0,
+     "u": "plaster",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cukinia"
+    },
+    {
+     "n": "Ser Pecorino romano (AH)",
+     "g": 20.0,
+     "q": 20.0,
+     "u": "g",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser Pecorino romano"
+    },
+    {
+     "n": "Rukola",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Łosoś wędzony",
+     "g": 50.0,
+     "q": 2.0,
+     "u": "plaster",
+     "dzial": "Mięso i ryby",
+     "zakup": "Łosoś wędzony"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 40.0,
+     "q": 1.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    }
+   ],
+   "kroki": [
+    "Jajka{0} roztrzepać z solą{1} i pieprzem{2}.",
+    "Na połowie oliwy{3} podsmażyć pokrojoną w półplastry cukinię{4}.",
+    "Wlać masę jajeczną, a gdy zacznie się ścinać, dodać pokruszony ser{5}.",
+    "Smażyć na wolnym ogniu do całkowitego ścięcia omletu.",
+    "Rukolę{6} polać pozostałą oliwą, doprawić solą i pieprzem.",
+    "Podawać omlet z warzywami, pieczywem{8} i łososiem{7}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "omlet-z-tunczykiem-i-szpinakiem",
+   "nazwa": "Omlet z tuńczykiem i szpinakiem",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 497.0,
+   "B": 41.0,
+   "T": 16.0,
+   "W": 49.0,
+   "zdjecie": "img/omlet-z-tunczykiem-i-szpinakiem.jpg",
+   "skladniki": [
+    {
+     "n": "Tuńczyk w sosie własnym",
+     "g": 85.0,
+     "q": 0.8,
+     "u": "opakowanie",
+     "dzial": "Suche",
+     "zakup": "Tuńczyk w sosie własnym"
+    },
+    {
+     "n": "Jajko kurze",
+     "g": 100.0,
+     "q": 2.0,
+     "u": "średnia sztuka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jajka"
+    },
+    {
+     "n": "Sól",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Pieprz czarny",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Pieprz czarny"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Szpinak",
+     "g": 50.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Szpinak"
+    },
+    {
+     "n": "Papryka czerwona",
+     "g": 75.0,
+     "q": 1.0,
+     "u": "mała sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Papryka czerwona"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 80.0,
+     "q": 2.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Pomidor czerwony",
+     "g": 120.0,
+     "q": 1.0,
+     "u": "średnia sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidor czerwony"
+    },
+    {
+     "n": "Oregano suszone",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Oregano suszone"
+    }
+   ],
+   "kroki": [
+    "Na oliwie{4} podsmaż szpinak{5} i kawałki tuńczyka{0} przez 1–2 minuty.",
+    "Jajka{1} roztrzep z solą{2} i pieprzem{3}, a następnie wlej na patelnię do podsmażonych składników.",
+    "Smaż na średnim ogniu, aż masa jajeczna zacznie się ścinać.",
+    "Złóż omlet na pół i smaż jeszcze chwilę do uzyskania złotego koloru.",
+    "Omlet posyp oregano{9}.",
+    "Zjedz z pieczywem{7} i warzywami."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "salata-z-sardynkami-z-pieczywem",
+   "nazwa": "Sałata z sardynkami z pieczywem",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 477.0,
+   "B": 25.0,
+   "T": 17.0,
+   "W": 26.0,
+   "zdjecie": "img/salata-z-sardynkami-z-pieczywem.jpg",
+   "skladniki": [
+    {
+     "n": "Szpinak",
+     "g": 25.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Szpinak"
+    },
+    {
+     "n": "Pomidor czerwony",
+     "g": 120.0,
+     "q": 1.0,
+     "u": "średnia sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidor czerwony"
+    },
+    {
+     "n": "Oliwki czarne marynowane",
+     "g": 15.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Oliwki czarne marynowane"
+    },
+    {
+     "n": "Sardynki w oliwie",
+     "g": 120.0,
+     "q": 1.5,
+     "u": "porcja",
+     "dzial": "Mięso i ryby",
+     "zakup": "Sardynki w oliwie"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 40.0,
+     "q": 1.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Oregano suszone",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Oregano suszone"
+    },
+    {
+     "n": "Natka pietruszki",
+     "g": 12.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Natka pietruszki"
+    }
+   ],
+   "kroki": [
+    "Do miski wsypać szpinak{0}, dodać pokrojonego pomidora{1} oraz oliwki{2}.",
+    "Dodać sardynki{3} podzielone na kawałki.",
+    "Posypać oregano{5} i natką pietruszki{6}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "salatka-z-pomidora-tunczyka-i-awokado-z-oliwa-z-oliwek",
+   "nazwa": "Sałatka z pomidora, tuńczyka i awokado z oliwą z oliwek",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 427.0,
+   "B": 40.0,
+   "T": 26.0,
+   "W": 14.0,
+   "zdjecie": "img/salatka-z-pomidora-tunczyka-i-awokado-z-oliwa-z-oliwek.jpg",
+   "skladniki": [
+    {
+     "n": "Rukola",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Pomidor czerwony",
+     "g": 170.0,
+     "q": 1.0,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidor czerwony"
+    },
+    {
+     "n": "Awokado",
+     "g": 50.0,
+     "q": 0.4,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Awokado"
+    },
+    {
+     "n": "Tuńczyk w sosie własnym",
+     "g": 120.0,
+     "q": 120.0,
+     "u": "g",
+     "dzial": "Suche",
+     "zakup": "Tuńczyk w sosie własnym"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Jajko kurze",
+     "g": 50.0,
+     "q": 1.0,
+     "u": "średnia sztuka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jajka"
+    },
+    {
+     "n": "Oregano suszone",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Oregano suszone"
+    },
+    {
+     "n": "Pestki dyni",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Suche",
+     "zakup": "Pestki dyni"
+    }
+   ],
+   "kroki": [
+    "Wszystkie składniki pokroić i wymieszać ze sobą.",
+    "Na wierzch dodać ugotowane, przekrojone na pół jajko{5}.",
+    "Posypać ziołami i pestkamki dyni{7}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "losos-z-salatka-z-awokado-i-rzodkiewki",
+   "nazwa": "Łosoś z sałatką z awokado i rzodkiewki",
+   "posilek": "Śniadanie",
+   "porcje": 1,
+   "kcal": 416.0,
+   "B": 25.0,
+   "T": 33.0,
+   "W": 10.0,
+   "zdjecie": "img/losos-z-salatka-z-awokado-i-rzodkiewki.jpg",
+   "skladniki": [
+    {
+     "n": "Szpinak",
+     "g": 25.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Szpinak"
+    },
+    {
+     "n": "Rzodkiewka",
+     "g": 60.0,
+     "q": 4.0,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rzodkiewka"
+    },
+    {
+     "n": "Sól",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Pieprz czarny",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Pieprz czarny"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Sok z cytryny",
+     "g": 3.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cytryna (sok)"
+    },
+    {
+     "n": "Awokado",
+     "g": 50.0,
+     "q": 0.4,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Awokado"
+    },
+    {
+     "n": "Łosoś wędzony",
+     "g": 75.0,
+     "q": 3.0,
+     "u": "plaster",
+     "dzial": "Mięso i ryby",
+     "zakup": "Łosoś wędzony"
+    },
+    {
+     "n": "Pestki dyni",
+     "g": 20.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Pestki dyni"
+    }
+   ],
+   "kroki": [
+    "Szpinak{0} opłukać, osuszyć, wymieszać z posiekaną rzodkiewką{1}.",
+    "Doprawić, skropić mieszanką oliwy{4} i soku z cytryny{5}.",
+    "Dodać pokrojone awokado{6} i podać z łososiem{7}. Posypać pestkami{8}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "jogurt-z-borowkami-i-pestkami-dyni",
+   "nazwa": "Jogurt z borówkami i pestkami dyni",
+   "posilek": "Przekąska",
+   "porcje": 1,
+   "kcal": 308.0,
+   "B": 9.0,
+   "T": 19.0,
+   "W": 28.0,
+   "zdjecie": "img/jogurt-z-borowkami-i-pestkami-dyni.jpg",
+   "skladniki": [
+    {
+     "n": "Jogurt grecki",
+     "g": 135.0,
+     "q": 9.0,
+     "u": "łyżka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jogurt grecki"
+    },
+    {
+     "n": "Borówki amerykańskie",
+     "g": 100.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Borówki amerykańskie"
+    },
+    {
+     "n": "Płatki owsiane górskie",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Płatki owsiane górskie"
+    },
+    {
+     "n": "Pestki dyni",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Pestki dyni"
+    }
+   ],
+   "kroki": [
+    "Wymieszać jogurt{0} z pozostałymi składnikami."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "kanapka-z-grillowanym-halloumi",
+   "nazwa": "Kanapka z grillowanym halloumi",
+   "posilek": "Przekąska",
+   "porcje": 1,
+   "kcal": 349.0,
+   "B": 17.0,
+   "T": 13.0,
+   "W": 42.0,
+   "zdjecie": "img/kanapka-z-grillowanym-halloumi.jpg",
+   "skladniki": [
+    {
+     "n": "Ser Halloumi",
+     "g": 40.0,
+     "q": 1.0,
+     "u": "plaster",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser Halloumi"
+    },
+    {
+     "n": "Pomidor czerwony",
+     "g": 120.0,
+     "q": 1.0,
+     "u": "średnia sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidor czerwony"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 80.0,
+     "q": 2.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Oregano suszone",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Oregano suszone"
+    }
+   ],
+   "kroki": [
+    "Ser{0} pokroić w plastry i ugrillować delikatnie na suchej patelni.",
+    "Na chleb{2} posmarować położyć ser oraz plastry pomidora{1}.",
+    "Pospać oregano{3}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "kanapki-z-hummusem-szynka-i-pomidorem",
+   "nazwa": "Kanapki z hummusem, szynką i pomidorem",
+   "posilek": "Przekąska",
+   "porcje": 1,
+   "kcal": 312.0,
+   "B": 15.0,
+   "T": 8.0,
+   "W": 48.0,
+   "zdjecie": "img/kanapki-z-hummusem-szynka-i-pomidorem.jpg",
+   "skladniki": [
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 80.0,
+     "q": 2.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Hummus",
+     "g": 30.0,
+     "q": 1.5,
+     "u": "łyżka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Hummus"
+    },
+    {
+     "n": "Rukola",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Szynka z indyka",
+     "g": 30.0,
+     "q": 2.0,
+     "u": "plaster",
+     "dzial": "Mięso i ryby",
+     "zakup": "Szynka z indyka"
+    },
+    {
+     "n": "Pomidor czerwony",
+     "g": 120.0,
+     "q": 1.0,
+     "u": "średnia sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidor czerwony"
+    },
+    {
+     "n": "Bazylia suszona",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Bazylia suszona"
+    }
+   ],
+   "kroki": [],
+   "uwagi": ""
+  },
+  {
+   "id": "musli-z-patelni-z-jogurtem",
+   "nazwa": "Musli z patelni z jogurtem",
+   "posilek": "Przekąska",
+   "porcje": 1,
+   "kcal": 336.0,
+   "B": 10.0,
+   "T": 20.0,
+   "W": 32.0,
+   "zdjecie": "img/musli-z-patelni-z-jogurtem.jpg",
+   "skladniki": [
+    {
+     "n": "Płatki owsiane górskie",
+     "g": 20.0,
+     "q": 20.0,
+     "u": "g",
+     "dzial": "Suche",
+     "zakup": "Płatki owsiane górskie"
+    },
+    {
+     "n": "Pestki dyni",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Pestki dyni"
+    },
+    {
+     "n": "Nektarynka",
+     "g": 110.0,
+     "q": 1.0,
+     "u": "mała sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Nektarynka"
+    },
+    {
+     "n": "Jogurt grecki",
+     "g": 135.0,
+     "q": 9.0,
+     "u": "łyżka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jogurt grecki"
+    }
+   ],
+   "kroki": [
+    "Na patelnię wsypać płatki{0} i pestki dyni{1}, uprażyć.",
+    "Podpiec na średnim ogniu, cały czas mieszając.",
+    "Do miseczki przełożyć jogurt{3}, posypać musli i dodać pokrojoną nektarynkę{2}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "salatka-z-grillowanym-halloumi-i-brzoskwinia",
+   "nazwa": "Sałatka z grillowanym halloumi i brzoskwinią",
+   "posilek": "Przekąska",
+   "porcje": 1,
+   "kcal": 332.0,
+   "B": 19.0,
+   "T": 23.0,
+   "W": 15.0,
+   "zdjecie": "img/salatka-z-grillowanym-halloumi-i-brzoskwinia.jpg",
+   "skladniki": [
+    {
+     "n": "Ser Halloumi",
+     "g": 60.0,
+     "q": 0.2,
+     "u": "kostka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser Halloumi"
+    },
+    {
+     "n": "Brzoskwinia",
+     "g": 100.0,
+     "q": 1.0,
+     "u": "średnia sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Brzoskwinia"
+    },
+    {
+     "n": "Ogórek",
+     "g": 90.0,
+     "q": 0.5,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Ogórek"
+    },
+    {
+     "n": "Rukola",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Sok z cytryny",
+     "g": 3.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cytryna (sok)"
+    },
+    {
+     "n": "Bazylia suszona",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Bazylia suszona"
+    }
+   ],
+   "kroki": [
+    "Ser{0} pokroić w plasterki i podsmażyć delikatnie na suchej patelni lub grillu z obu stron.",
+    "Owoc i ogórka{2} pozbawić części niejadalnych i pokroić w kosteczkę.",
+    "Wymieszać składniki razem z sałatą{3} i skropić oliwą{4} wymieszaną z sokiem z cytryny{5} oraz ulubionymi przyprawami (np. solą, pieprzem, oregano)."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "warzywne-slupki-z-hummusem-i-pestkami-dyni",
+   "nazwa": "Warzywne słupki z hummusem i pestkami dyni",
+   "posilek": "Przekąska",
+   "porcje": 1,
+   "kcal": 324.0,
+   "B": 13.0,
+   "T": 21.0,
+   "W": 28.0,
+   "zdjecie": null,
+   "skladniki": [
+    {
+     "n": "Marchew",
+     "g": 140.0,
+     "q": 2.0,
+     "u": "duża sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Marchew"
+    },
+    {
+     "n": "Papryka czerwona",
+     "g": 85.0,
+     "q": 0.5,
+     "u": "duża sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Papryka czerwona"
+    },
+    {
+     "n": "Hummus",
+     "g": 60.0,
+     "q": 3.0,
+     "u": "łyżka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Hummus"
+    },
+    {
+     "n": "Pestki dyni",
+     "g": 20.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Pestki dyni"
+    }
+   ],
+   "kroki": [
+    "Warzywa umyć, obrać i pokroić w słupki.",
+    "Zjeść z hummusem{2} i pestkami dyni{3}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "warzywne-slupki-z-serkiem-i-pestkami-dyni",
+   "nazwa": "Warzywne słupki z serkiem i pestkami dyni",
+   "posilek": "Przekąska",
+   "porcje": 1,
+   "kcal": 317.0,
+   "B": 18.0,
+   "T": 21.0,
+   "W": 20.0,
+   "zdjecie": null,
+   "skladniki": [
+    {
+     "n": "Marchew",
+     "g": 140.0,
+     "q": 2.0,
+     "u": "duża sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Marchew"
+    },
+    {
+     "n": "Papryka czerwona",
+     "g": 85.0,
+     "q": 0.5,
+     "u": "duża sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Papryka czerwona"
+    },
+    {
+     "n": "Ser kozi miękki",
+     "g": 50.0,
+     "q": 5.0,
+     "u": "plaster",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser kozi miękki"
+    },
+    {
+     "n": "Pestki dyni",
+     "g": 20.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Pestki dyni"
+    }
+   ],
+   "kroki": [
+    "Warzywa umyć, obrać i pokroić w słupki.",
+    "Zjeść z serkiem{2} i pestkami dyni{3}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "bowl-z-grillowanym-indykiem-i-hummusem",
+   "nazwa": "Bowl z grillowanym indykiem i hummusem",
+   "posilek": "Obiad",
+   "porcje": 2,
+   "kcal": 709.0,
+   "B": 61.0,
+   "T": 27.0,
+   "W": 61.0,
+   "zdjecie": "img/bowl-z-grillowanym-indykiem-i-hummusem.jpg",
+   "skladniki": [
+    {
+     "n": "Indyk pierś",
+     "g": 400.0,
+     "q": 4.0,
+     "u": "porcja",
+     "dzial": "Mięso i ryby",
+     "zakup": "Indyk pierś"
+    },
+    {
+     "n": "Sól",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Pieprz czarny",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Pieprz czarny"
+    },
+    {
+     "n": "Oregano suszone",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Oregano suszone"
+    },
+    {
+     "n": "Brokuł",
+     "g": 400.0,
+     "q": 0.8,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Brokuł"
+    },
+    {
+     "n": "Kasza jaglana",
+     "g": 100.0,
+     "q": 6.7,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Kasza jaglana"
+    },
+    {
+     "n": "Pomidory koktajlowe",
+     "g": 200.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidory koktajlowe"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 20.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Sok z cytryny",
+     "g": 6.0,
+     "q": 2.0,
+     "u": "łyżeczka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cytryna (sok)"
+    },
+    {
+     "n": "Szpinak",
+     "g": 50.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Szpinak"
+    },
+    {
+     "n": "Hummus",
+     "g": 100.0,
+     "q": 5.0,
+     "u": "łyżka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Hummus"
+    },
+    {
+     "n": "Natka pietruszki",
+     "g": 12.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Natka pietruszki"
+    }
+   ],
+   "kroki": [
+    "Mięso umyć, osuszyć, doprawić solą{1}, pieprzem{2}, oregano{3} i natrzeć oliwą{7}. Ugrillować na patelni lub upiec w piekarniku.",
+    "Ugotować różyczki brokuła{4}.",
+    "Kaszę{5} ugotować, odcedzić, ostudzić.",
+    "Dodać do niej pomidorki{6} i brokuła, można też dodać szczypiorek.",
+    "Na dnie talerza wyłożyć szpinak{9} lub sałatę, następnie sałatkę z kaszą, obok położyć hummus{10} i kawałki pokrojonego indyka{0}.",
+    "Posypać wszystko natką pietruszki{11}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "bowl-z-pomidorkami-kurczakiem-i-feta",
+   "nazwa": "Bowl z pomidorkami, kurczakiem i fetą",
+   "posilek": "Obiad",
+   "porcje": 2,
+   "kcal": 525.0,
+   "B": 44.0,
+   "T": 22.0,
+   "W": 38.0,
+   "zdjecie": "img/bowl-z-pomidorkami-kurczakiem-i-feta.jpg",
+   "skladniki": [
+    {
+     "n": "Kasza jaglana",
+     "g": 80.0,
+     "q": 80.0,
+     "u": "g",
+     "dzial": "Suche",
+     "zakup": "Kasza jaglana"
+    },
+    {
+     "n": "Rukola",
+     "g": 40.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Pomidory koktajlowe",
+     "g": 200.0,
+     "q": 10.0,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidory koktajlowe"
+    },
+    {
+     "n": "Kurczak pierś",
+     "g": 300.0,
+     "q": 300.0,
+     "u": "g",
+     "dzial": "Mięso i ryby",
+     "zakup": "Kurczak pierś"
+    },
+    {
+     "n": "Curry przyprawa",
+     "g": 2.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Curry przyprawa"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 20.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Ser Feta",
+     "g": 50.0,
+     "q": 2.5,
+     "u": "plaster",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser Feta"
+    },
+    {
+     "n": "Sól",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Pieprz czarny",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Pieprz czarny"
+    },
+    {
+     "n": "Ogórek",
+     "g": 90.0,
+     "q": 0.5,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Ogórek"
+    },
+    {
+     "n": "Natka pietruszki",
+     "g": 24.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Natka pietruszki"
+    },
+    {
+     "n": "Bazylia suszona",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Bazylia suszona"
+    }
+   ],
+   "kroki": [
+    "Kaszę{0} ugotować wg instrukcji na opakowaniu. Odcedzić.",
+    "Kaszę i rukolę{1} ułożyć na półmisku. Pomidorki{2} przekroić na połówki, położyć na sałacie.",
+    "Dodać plastry grillowanego / pieczonego kurczaka{3} w curry{4} i oliwie{5}. Posypać pokruszoną fetą{6}.",
+    "Wszystko doprawić bazylią{11}, solą{7} i świeżo zmielonym pieprzem{8}.",
+    "Posypać natką pietruszki{10}."
+   ],
+   "uwagi": "Można polać octem balsamicznym."
+  },
+  {
+   "id": "burrito-bowl-z-wolowina-i-ryzem",
+   "nazwa": "Burrito bowl z wołowiną i ryżem",
+   "posilek": "Obiad",
+   "porcje": 2,
+   "kcal": 732.0,
+   "B": 46.0,
+   "T": 38.0,
+   "W": 53.0,
+   "zdjecie": "img/burrito-bowl-z-wolowina-i-ryzem.jpg",
+   "skladniki": [
+    {
+     "n": "Czosnek",
+     "g": 8.0,
+     "q": 2.0,
+     "u": "ząbek",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Czosnek"
+    },
+    {
+     "n": "Wołowina mielona",
+     "g": 400.0,
+     "q": 4.0,
+     "u": "porcja",
+     "dzial": "Mięso i ryby",
+     "zakup": "Wołowina mielona"
+    },
+    {
+     "n": "Pomidor czerwony",
+     "g": 360.0,
+     "q": 2.0,
+     "u": "duża sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidor czerwony"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 20.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Oregano suszone",
+     "g": 4.0,
+     "q": 4.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Oregano suszone"
+    },
+    {
+     "n": "Sól",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Pieprz czarny",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Pieprz czarny"
+    },
+    {
+     "n": "Cebula czerwona",
+     "g": 50.0,
+     "q": 0.6,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cebula czerwona"
+    },
+    {
+     "n": "Rukola",
+     "g": 40.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Natka pietruszki",
+     "g": 24.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Natka pietruszki"
+    },
+    {
+     "n": "Ryż brązowy",
+     "g": 100.0,
+     "q": 6.7,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Ryż brązowy"
+    }
+   ],
+   "kroki": [
+    "Na oliwie z oliwek{3} zeszklić posiekany czosnek{0}.",
+    "Dodać wołowinę mieloną{1}, doprawić papryką ostrą, oregano{4}, solą{5} i pieprzem{6}, smażyć około 10 minut, aż mięso będzie ugotowane.",
+    "Ryż{10} basmati ugotować zgodnie z instrukcją na opakowaniu.",
+    "Pomidora{2} pokroić w kostkę, wymieszać z posiekaną cebulą czerwoną{7} i natką pietruszki{9}, polać oliwą i doprawić solą oraz pieprzem.",
+    "W pojemniczku ułożyć sałatę{8}, salsę z pomidora i cebuli, ugotowany ryż oraz usmażone mięso."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "fasolka-szparagowa-z-ziemniakami-lososiem-i-migdalowa-posypk",
+   "nazwa": "Fasolka szparagowa z ziemniakami, łososiem i migdałową posypką",
+   "posilek": "Obiad",
+   "porcje": 1,
+   "kcal": 734.0,
+   "B": 49.0,
+   "T": 42.0,
+   "W": 41.0,
+   "zdjecie": "img/fasolka-szparagowa-z-ziemniakami-lososiem-i-migdalowa-posypk.jpg",
+   "skladniki": [
+    {
+     "n": "Fasolka szparagowa",
+     "g": 180.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Fasolka szparagowa"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Migdały",
+     "g": 10.0,
+     "q": 10.0,
+     "u": "sztuka",
+     "dzial": "Suche",
+     "zakup": "Migdały"
+    },
+    {
+     "n": "Łosoś atlantycki",
+     "g": 200.0,
+     "q": 1.0,
+     "u": "sztuka",
+     "dzial": "Mięso i ryby",
+     "zakup": "Łosoś atlantycki"
+    },
+    {
+     "n": "Ziemniaki",
+     "g": 150.0,
+     "q": 2.0,
+     "u": "średnia sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Ziemniaki"
+    }
+   ],
+   "kroki": [
+    "Fasolkę szparagową{0} i pokrojone ziemniaki{4} ugotować na parze.",
+    "Polać oliwą z oliwek{1}, doprawić solą i pieprzem, posypać posiekanymi lub zmielonymi migdałami{2}.",
+    "Rybę zamarynować w oliwie i przyprawach i upiec w piekarniku nagrzanym do 180°C przez około 20 minut.",
+    "Podawać warzywa z upieczoną rybą."
+   ],
+   "uwagi": "Fasolkę szparagową można zamienić na szparagi."
+  },
+  {
+   "id": "kurczak-z-kasza-gryczana-i-surowka-z-ogorka-i-awokado",
+   "nazwa": "Kurczak z kaszą gryczaną i surówką z ogórka i awokado",
+   "posilek": "Obiad",
+   "porcje": 2,
+   "kcal": 693.0,
+   "B": 56.0,
+   "T": 32.0,
+   "W": 51.0,
+   "zdjecie": "img/kurczak-z-kasza-gryczana-i-surowka-z-ogorka-i-awokado.jpg",
+   "skladniki": [
+    {
+     "n": "Ogórek",
+     "g": 180.0,
+     "q": 1.0,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Ogórek"
+    },
+    {
+     "n": "Awokado",
+     "g": 140.0,
+     "q": 1.0,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Awokado"
+    },
+    {
+     "n": "Sok z cytryny",
+     "g": 6.0,
+     "q": 2.0,
+     "u": "łyżeczka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cytryna (sok)"
+    },
+    {
+     "n": "Sól",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Rukola",
+     "g": 40.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 20.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Tymianek suszony",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Tymianek suszony"
+    },
+    {
+     "n": "Kurczak pierś",
+     "g": 400.0,
+     "q": 4.0,
+     "u": "porcja",
+     "dzial": "Mięso i ryby",
+     "zakup": "Kurczak pierś"
+    },
+    {
+     "n": "Kasza gryczana niepalona",
+     "g": 100.0,
+     "q": 10.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Kasza gryczana niepalona"
+    },
+    {
+     "n": "Nasiona słonecznika",
+     "g": 20.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Nasiona słonecznika"
+    }
+   ],
+   "kroki": [
+    "Ogórki{0} umyć, obrać i pokroić w kostkę.",
+    "Awokado{1} obrać, przekroić na pół, usunąć pestkę, pokroić w kostkę i skropić sokiem z cytryny{2}.",
+    "Ogórka i awokado włożyć do salaterki, doprawić solą{3} oraz pieprzem i wymieszać.",
+    "Dodać opłukaną i osuszoną sałatę{4}.",
+    "Na patelni podsmażyć na oliwie{5} przyprawionego wg uznania i pokrojonego kurczaka{7}.",
+    "Podawać z ugotowaną kaszą{8} i nasionami słonecznika{9}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "makaron-z-lososiem-i-fasolka-szparagowa",
+   "nazwa": "Makaron z łososiem i fasolką szparagową",
+   "posilek": "Obiad",
+   "porcje": 2,
+   "kcal": 527.0,
+   "B": 33.0,
+   "T": 26.0,
+   "W": 40.0,
+   "zdjecie": "img/makaron-z-lososiem-i-fasolka-szparagowa.jpg",
+   "skladniki": [
+    {
+     "n": "Fasola szparagowa",
+     "g": 180.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Fasolka szparagowa"
+    },
+    {
+     "n": "Makaron kukurydziany",
+     "g": 80.0,
+     "q": 1.0,
+     "u": "szklanka",
+     "dzial": "Suche",
+     "zakup": "Makaron kukurydziany"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Łosoś atlantycki",
+     "g": 250.0,
+     "q": 250.0,
+     "u": "g",
+     "dzial": "Mięso i ryby",
+     "zakup": "Łosoś atlantycki"
+    },
+    {
+     "n": "Natka pietruszki",
+     "g": 12.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Natka pietruszki"
+    },
+    {
+     "n": "Bazylia suszona",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Bazylia suszona"
+    },
+    {
+     "n": "Sok z cytryny",
+     "g": 6.0,
+     "q": 2.0,
+     "u": "łyżeczka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cytryna (sok)"
+    },
+    {
+     "n": "Ser Pecorino romano (AH)",
+     "g": 16.0,
+     "q": 16.0,
+     "u": "g",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser Pecorino romano"
+    }
+   ],
+   "kroki": [
+    "Fasolkę{0} umyć, pokorić. Dodać do gotującej się wody i gotować przez około 7-9 minut.",
+    "Ugotowaną fasolkę wyciągnąć z garnka (wodę zostawić na makaron{1}).",
+    "Ugotować makaron al dente, odcedzić i zostawić 1/4 kubka wody do sosu.",
+    "Rozgrzać patelnię na średnim ogniu, dodać oliwę z oliwek{2}, fasolkę i łososia{3} pokrojonego w drobną kostkę. Wymieszać, chwilę podsmażyć, dodać zioła i sok z cytryny{6}.",
+    "Dolać wodę z gotowania makaronu (kilka łyżek), doprawić. Całość gotować około 2 minuty, mieszając.",
+    "Przełożyć na talerz i posypać serem{7}. Można też dodać pomidorki."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "papryka-faszerowana-wolowina",
+   "nazwa": "Papryka faszerowana wołowiną",
+   "posilek": "Obiad",
+   "porcje": 2,
+   "kcal": 560.0,
+   "B": 38.0,
+   "T": 27.0,
+   "W": 42.0,
+   "zdjecie": "img/papryka-faszerowana-wolowina.jpg",
+   "skladniki": [
+    {
+     "n": "Cynamon mielony",
+     "g": 1.0,
+     "q": 0.3,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Cynamon mielony"
+    },
+    {
+     "n": "Oregano suszone",
+     "g": 5.0,
+     "q": 5.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Oregano suszone"
+    },
+    {
+     "n": "Wołowina mielona",
+     "g": 300.0,
+     "q": 300.0,
+     "u": "g",
+     "dzial": "Mięso i ryby",
+     "zakup": "Wołowina mielona"
+    },
+    {
+     "n": "Papryka czerwona",
+     "g": 340.0,
+     "q": 2.0,
+     "u": "duża sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Papryka czerwona"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 10.0,
+     "q": 2.0,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Pomidor czerwony",
+     "g": 180.0,
+     "q": 1.0,
+     "u": "duża sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidor czerwony"
+    },
+    {
+     "n": "Wywar warzywny",
+     "g": 75.0,
+     "q": 0.3,
+     "u": "szklanka",
+     "dzial": "Suche",
+     "zakup": "Bulion warzywny"
+    },
+    {
+     "n": "Komosa ryżowa (quinoa)",
+     "g": 80.0,
+     "q": 5.3,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Komosa ryżowa (quinoa)"
+    }
+   ],
+   "kroki": [
+    "Przygotować marynatę: wymieszać cynamon{0}, oregano{1}, erytrytol.",
+    "Mielone mięso{2} wymieszać z przygotowaną marynatą (nawet na całą noc w lodówce).",
+    "Paprykę{3} obkroić na górze, oczyścić środek. Następnie nastawić piekarnik na 190 stopni.",
+    "Na patelni obsmażyć przygotowane mięso na oliwie{4}.",
+    "Dodać pomidora{5} obranego ze skórki i pokrojonego w kostkę i zagotować.",
+    "Następnie dodać bulion{6}, surową komosę{7}. Gotować całość około 15 minuty.",
+    "Przygotowany farsz przełożyć do papryki, górę przykryć odkrojoną częścią i piec 45 minut."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "stek-wolowy-z-grilla-z-ziemniakami-z-koperkiem-i-lekka-salat",
+   "nazwa": "Stek wołowy z grilla z ziemniakami z koperkiem i lekką sałatką",
+   "posilek": "Obiad",
+   "porcje": 1,
+   "kcal": 558.0,
+   "B": 40.0,
+   "T": 24.0,
+   "W": 49.0,
+   "zdjecie": "img/stek-wolowy-z-grilla-z-ziemniakami-z-koperkiem-i-lekka-salat.jpg",
+   "skladniki": [
+    {
+     "n": "Polędwica wołowa",
+     "g": 150.0,
+     "q": 1.5,
+     "u": "plaster",
+     "dzial": "Mięso i ryby",
+     "zakup": "Polędwica wołowa"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 15.0,
+     "q": 1.5,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Pieprz czarny",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Pieprz czarny"
+    },
+    {
+     "n": "Sól",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Ocet balsamiczny",
+     "g": 6.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Ocet balsamiczny"
+    },
+    {
+     "n": "Woda",
+     "g": 15.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": null,
+     "zakup": "Woda"
+    },
+    {
+     "n": "Rukola",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Pomidor czerwony",
+     "g": 170.0,
+     "q": 1.0,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Pomidor czerwony"
+    },
+    {
+     "n": "Ogórek",
+     "g": 70.0,
+     "q": 0.4,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Ogórek"
+    },
+    {
+     "n": "Oliwki czarne marynowane",
+     "g": 30.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Oliwki czarne marynowane"
+    },
+    {
+     "n": "Ziemniaki",
+     "g": 200.0,
+     "q": 4.0,
+     "u": "mała sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Ziemniaki"
+    },
+    {
+     "n": "Koper świeży",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Koper świeży"
+    }
+   ],
+   "kroki": [
+    "Mięso{0} umyć i dokładnie osuszyć ręcznikiem papierowym. Natrzeć oliwą{1} i obficie oprószyć świeżo zmielonym pieprzem{2}.",
+    "Stek położyć na na dobrze rozgrzanym grillu.",
+    "Smażyć po 2 minuty z każdej strony (stek krwisty), 3 minuty (stek średnio wysmażony) lub 4 minuty (stek wysmażony).",
+    "Gotowy stek przełożyć na talerz posolić. Pozostawić na 2-3 minuty.",
+    "Sałatę{6} ułożyć na talerzu, dodać pokrojone warzywa.",
+    "Sałatkę polać octem balsamicznym{4}. Podać z ziemniakami{10} z wody posypanymi koperkiem{11}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "bataty-zapiekane-z-dipem-i-brokulem",
+   "nazwa": "Bataty zapiekane z dipem i brokułem",
+   "posilek": "Kolacja",
+   "porcje": 1,
+   "kcal": 460.0,
+   "B": 12.0,
+   "T": 24.0,
+   "W": 52.0,
+   "zdjecie": "img/bataty-zapiekane-z-dipem-i-brokulem.jpg",
+   "skladniki": [
+    {
+     "n": "Batat",
+     "g": 200.0,
+     "q": 1.0,
+     "u": "mała sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Batat"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Jogurt grecki",
+     "g": 90.0,
+     "q": 6.0,
+     "u": "łyżka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jogurt grecki"
+    },
+    {
+     "n": "Tymianek suszony",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "g",
+     "dzial": "Przyprawy",
+     "zakup": "Tymianek suszony"
+    },
+    {
+     "n": "Bazylia suszona",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Bazylia suszona"
+    },
+    {
+     "n": "Oregano suszone",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Oregano suszone"
+    },
+    {
+     "n": "Pieprz czarny",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Pieprz czarny"
+    },
+    {
+     "n": "Brokuł",
+     "g": 100.0,
+     "q": 5.0,
+     "u": "różyczka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Brokuł"
+    },
+    {
+     "n": "Ser Feta",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "plaster",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser Feta"
+    }
+   ],
+   "kroki": [
+    "Bataty{0} obierać i pokroić w grube plastry. Wyłożyć na blachę do pieczenia, posypać ziołami i przyprawami oraz polać olejem.",
+    "Piec z około 20 minut w 180 C w opcji z termoobiegiem.",
+    "Brokuł{7} ugotować w wodzie.",
+    "Jogurt{2} doprawić według uznania, wymieszać z fetą{8} i zjedz z gorącymi batatami i brokułem."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "bowl-z-burakiem-kasza-i-grillowanym-halloumi",
+   "nazwa": "Bowl z burakiem, kaszą i grillowanym halloumi",
+   "posilek": "Kolacja",
+   "porcje": 2,
+   "kcal": 552.0,
+   "B": 27.0,
+   "T": 29.0,
+   "W": 53.0,
+   "zdjecie": "img/bowl-z-burakiem-kasza-i-grillowanym-halloumi.jpg",
+   "skladniki": [
+    {
+     "n": "Kasza gryczana niepalona",
+     "g": 100.0,
+     "q": 10.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Kasza gryczana niepalona"
+    },
+    {
+     "n": "Buraki ugotowane",
+     "g": 240.0,
+     "q": 2.0,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Buraki ugotowane"
+    },
+    {
+     "n": "Rukola",
+     "g": 40.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Natka pietruszki",
+     "g": 24.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Natka pietruszki"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Pestki dyni",
+     "g": 30.0,
+     "q": 3.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Pestki dyni"
+    },
+    {
+     "n": "Ser Halloumi",
+     "g": 100.0,
+     "q": 2.5,
+     "u": "plaster",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser Halloumi"
+    }
+   ],
+   "kroki": [
+    "Kaszę{0} ugotować na sypko i ostudzić.",
+    "Na talerzu ułożyć kaszę, liście sałaty{2}, zgrillowany ser{6}, buraka{1} pokrojonego w kostkę (użyć już ugotowanego) i całość skropić oliwą{4} i ew. sokiem z cytryny.",
+    "Posypać pestkami dyni{5} i ziołami."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "grzanki-z-pasta-z-awokado-pecorrino-romano-i-bazylii-z-papry",
+   "nazwa": "Grzanki z pastą z awokado, pecorrino romano i bazylii z papryką",
+   "posilek": "Kolacja",
+   "porcje": 1,
+   "kcal": 532.0,
+   "B": 17.0,
+   "T": 24.0,
+   "W": 68.0,
+   "zdjecie": "img/grzanki-z-pasta-z-awokado-pecorrino-romano-i-bazylii-z-papry.jpg",
+   "skladniki": [
+    {
+     "n": "Papryka czerwona",
+     "g": 85.0,
+     "q": 0.5,
+     "u": "duża sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Papryka czerwona"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 120.0,
+     "q": 3.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Awokado",
+     "g": 70.0,
+     "q": 0.5,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Awokado"
+    },
+    {
+     "n": "Ser Pecorino romano (AH)",
+     "g": 20.0,
+     "q": 20.0,
+     "u": "g",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser Pecorino romano"
+    },
+    {
+     "n": "Rukola",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Sól",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Pieprz czarny",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Pieprz czarny"
+    },
+    {
+     "n": "Bazylia świeża",
+     "g": 20.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Bazylia świeża"
+    },
+    {
+     "n": "Sok z cytryny",
+     "g": 6.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cytryna (sok)"
+    }
+   ],
+   "kroki": [
+    "W miseczce połączyć awokado{2}, ser{3}, oliwę{5}, sok z cytryny{9}, garść świeżej bazylii{8}, sól{6} i pieprz{7}, a następnie dokładnie zblendować na gładką pastę.",
+    "Chleb{1} posmarować przygotowaną pastą, ułożyć rukolę{4} i paseczki papryki{0} wraz z pozostałą bazylią, doprawić solą i pieprzem."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "jaglanka-z-borowkami-i-maslem-orzechowym",
+   "nazwa": "Jaglanka z borówkami i masłem orzechowym",
+   "posilek": "Kolacja",
+   "porcje": 1,
+   "kcal": 465.0,
+   "B": 13.0,
+   "T": 18.0,
+   "W": 66.0,
+   "zdjecie": "img/jaglanka-z-borowkami-i-maslem-orzechowym.jpg",
+   "skladniki": [
+    {
+     "n": "Kasza jaglana",
+     "g": 60.0,
+     "q": 4.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Kasza jaglana"
+    },
+    {
+     "n": "Napój migdałowy wzbogacony w wapń",
+     "g": 150.0,
+     "q": 150.0,
+     "u": "g",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Napój migdałowy wzbogacony w wapń"
+    },
+    {
+     "n": "Borówki amerykańskie",
+     "g": 100.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Borówki amerykańskie"
+    },
+    {
+     "n": "Masło orzechowe",
+     "g": 15.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Suche",
+     "zakup": "Masło orzechowe"
+    },
+    {
+     "n": "Jogurt grecki",
+     "g": 60.0,
+     "q": 4.0,
+     "u": "łyżka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jogurt grecki"
+    }
+   ],
+   "kroki": [
+    "Kaszę{0} przepłukać pod ciepłą wodą.",
+    "Wlać mleko{1}, wymieszać. Zmniejszyć ogień, przykryć i gotować przez ok. 15 minut, w międzyczasie 2 - 3 razy zamieszać.",
+    "Przełożyć do miski, dodać jogurt{4}, masło orzechowe{3} i owoce. Wymieszać."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "jogurt-z-owocami-sezonowymi",
+   "nazwa": "Jogurt z owocami sezonowymi",
+   "posilek": "Kolacja",
+   "porcje": 1,
+   "kcal": 479.0,
+   "B": 13.0,
+   "T": 25.0,
+   "W": 56.0,
+   "zdjecie": "img/jogurt-z-owocami-sezonowymi.jpg",
+   "skladniki": [
+    {
+     "n": "Jogurt grecki",
+     "g": 150.0,
+     "q": 150.0,
+     "u": "g",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jogurt grecki"
+    },
+    {
+     "n": "Borówki amerykańskie",
+     "g": 100.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Borówki amerykańskie"
+    },
+    {
+     "n": "Nektarynka",
+     "g": 110.0,
+     "q": 1.0,
+     "u": "mała sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Nektarynka"
+    },
+    {
+     "n": "Płatki owsiane górskie",
+     "g": 30.0,
+     "q": 3.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Płatki owsiane górskie"
+    },
+    {
+     "n": "Masło orzechowe",
+     "g": 15.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Suche",
+     "zakup": "Masło orzechowe"
+    }
+   ],
+   "kroki": [
+    "Jogurt{0} wymieszać z resztą składników."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "jogurt-z-platkami-owsianymi-orzechami-i-owocami",
+   "nazwa": "Jogurt z płatkami owsianymi, orzechami i owocami",
+   "posilek": "Kolacja",
+   "porcje": 1,
+   "kcal": 547.0,
+   "B": 16.0,
+   "T": 35.0,
+   "W": 47.0,
+   "zdjecie": "img/jogurt-z-platkami-owsianymi-orzechami-i-owocami.jpg",
+   "skladniki": [
+    {
+     "n": "Jogurt grecki",
+     "g": 200.0,
+     "q": 0.5,
+     "u": "opakowanie",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jogurt grecki"
+    },
+    {
+     "n": "Płatki owsiane górskie",
+     "g": 30.0,
+     "q": 30.0,
+     "u": "g",
+     "dzial": "Suche",
+     "zakup": "Płatki owsiane górskie"
+    },
+    {
+     "n": "Migdały",
+     "g": 15.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Migdały"
+    },
+    {
+     "n": "Maliny",
+     "g": 60.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Maliny"
+    },
+    {
+     "n": "Borówki amerykańskie",
+     "g": 50.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Borówki amerykańskie"
+    },
+    {
+     "n": "Pestki dyni",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Pestki dyni"
+    }
+   ],
+   "kroki": [
+    "Jogurt{0} wymieszać z resztą składników.",
+    "W razie potrzeby można dosłodzić erytrytolem. Płatki{1} wcześniej można namoczyć w niewielkiej ilości wrzątku, lub uprażyć z pestkami{5} i migdałami{2} - staną się chrupiące."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "kanapki-z-pasta-tunczykowa",
+   "nazwa": "Kanapki z pastą tuńczykową",
+   "posilek": "Kolacja",
+   "porcje": 1,
+   "kcal": 467.0,
+   "B": 33.0,
+   "T": 11.0,
+   "W": 60.0,
+   "zdjecie": "img/kanapki-z-pasta-tunczykowa.jpg",
+   "skladniki": [
+    {
+     "n": "Tuńczyk w sosie własnym",
+     "g": 85.0,
+     "q": 85.0,
+     "u": "g",
+     "dzial": "Suche",
+     "zakup": "Tuńczyk w sosie własnym"
+    },
+    {
+     "n": "Ser kozi miękki",
+     "g": 20.0,
+     "q": 2.0,
+     "u": "plaster",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser kozi miękki"
+    },
+    {
+     "n": "Szczypiorek",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Szczypiorek"
+    },
+    {
+     "n": "Sól",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Pieprz czarny",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Pieprz czarny"
+    },
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 120.0,
+     "q": 3.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Rukola",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Ogórek kiszony",
+     "g": 130.0,
+     "q": 1.0,
+     "u": "duża sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Ogórek kiszony"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 5.0,
+     "q": 0.5,
+     "u": "łyżka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    }
+   ],
+   "kroki": [
+    "Tuńczyka{0} odsączyć, wymieszać z serkiem{1}, oliwą{8} i posiekanym szczypiorkiem{2}. Doprawić.",
+    "Chleb{5} opiec w opiekaczu (opcjonalnie), posmarować przygotowaną pastą, udekorować rukolą{6} i podać z pokrojonym ogórkiem{7}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "kanapki-z-tunczykiem-awokado-i-rukola",
+   "nazwa": "Kanapki z tuńczykiem, awokado i rukolą",
+   "posilek": "Kolacja",
+   "porcje": 1,
+   "kcal": 524.0,
+   "B": 31.0,
+   "T": 17.0,
+   "W": 66.0,
+   "zdjecie": "img/kanapki-z-tunczykiem-awokado-i-rukola.jpg",
+   "skladniki": [
+    {
+     "n": "Chleb żytni razowy na zakwasie",
+     "g": 120.0,
+     "q": 3.0,
+     "u": "kromka",
+     "dzial": "Pieczywo",
+     "zakup": "Chleb żytni razowy na zakwasie"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Rukola",
+     "g": 20.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Rukola"
+    },
+    {
+     "n": "Tuńczyk w sosie własnym",
+     "g": 85.0,
+     "q": 85.0,
+     "u": "g",
+     "dzial": "Suche",
+     "zakup": "Tuńczyk w sosie własnym"
+    },
+    {
+     "n": "Papryka czerwona",
+     "g": 60.0,
+     "q": 0.5,
+     "u": "średnia sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Papryka czerwona"
+    },
+    {
+     "n": "Awokado",
+     "g": 70.0,
+     "q": 0.5,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Awokado"
+    },
+    {
+     "n": "Oregano suszone",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Oregano suszone"
+    }
+   ],
+   "kroki": [
+    "Kanapki{0} skropić tłuszczem, na to ułożyć rukolę{2}.",
+    "Na wierzch wyłożyć rybę i pokrojone awokado{5}, posypać oregano{6}.",
+    "Zjeść z papryką."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "komosa-ryzowa-z-borowkami",
+   "nazwa": "Komosa ryżowa z borówkami",
+   "posilek": "Kolacja",
+   "porcje": 1,
+   "kcal": 566.0,
+   "B": 18.0,
+   "T": 28.0,
+   "W": 70.0,
+   "zdjecie": "img/komosa-ryzowa-z-borowkami.jpg",
+   "skladniki": [
+    {
+     "n": "Napój migdałowy wzbogacony w wapń",
+     "g": 150.0,
+     "q": 150.0,
+     "u": "ml",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Napój migdałowy wzbogacony w wapń"
+    },
+    {
+     "n": "Komosa ryżowa (quinoa)",
+     "g": 50.0,
+     "q": 50.0,
+     "u": "g",
+     "dzial": "Suche",
+     "zakup": "Komosa ryżowa (quinoa)"
+    },
+    {
+     "n": "Cynamon mielony",
+     "g": 1.0,
+     "q": 1.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Cynamon mielony"
+    },
+    {
+     "n": "Siemię lniane",
+     "g": 10.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Siemię lniane"
+    },
+    {
+     "n": "Migdały",
+     "g": 15.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Migdały"
+    },
+    {
+     "n": "Borówki amerykańskie",
+     "g": 100.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Borówki amerykańskie"
+    },
+    {
+     "n": "Kakao w proszku",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Suche",
+     "zakup": "Kakao w proszku"
+    },
+    {
+     "n": "Jogurt grecki",
+     "g": 100.0,
+     "q": 0.3,
+     "u": "opakowanie",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jogurt grecki"
+    },
+    {
+     "n": "Maliny",
+     "g": 60.0,
+     "q": 1.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Maliny"
+    }
+   ],
+   "kroki": [
+    "Do rondelka wlać mleko{0}, dodać komosę{1}, kakao{6}, cynamon{2} i gotować na małym ogniu 15-20 minut.",
+    "Pod koniec dorzucić zmielone siemię lniane{3} i dokładnie wymieszać.",
+    "Do komosanki dodać owoce i migdały{4}."
+   ],
+   "uwagi": "Komosę najlepiej ugotować wcześniej i zjeść dopiero po schłodzeniu (ma niższy ŁG)."
+  },
+  {
+   "id": "komosa-ryzowa-z-mlekiem-migdalowym-i-malinami",
+   "nazwa": "Komosa ryżowa z mlekiem migdałowym i malinami",
+   "posilek": "Kolacja",
+   "porcje": 1,
+   "kcal": 496.0,
+   "B": 17.0,
+   "T": 24.0,
+   "W": 58.0,
+   "zdjecie": "img/komosa-ryzowa-z-mlekiem-migdalowym-i-malinami.jpg",
+   "skladniki": [
+    {
+     "n": "Komosa ryżowa (quinoa)",
+     "g": 60.0,
+     "q": 4.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Komosa ryżowa (quinoa)"
+    },
+    {
+     "n": "Napój migdałowy wzbogacony w wapń",
+     "g": 150.0,
+     "q": 150.0,
+     "u": "g",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Napój migdałowy wzbogacony w wapń"
+    },
+    {
+     "n": "Maliny",
+     "g": 60.0,
+     "q": 60.0,
+     "u": "g",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Maliny"
+    },
+    {
+     "n": "Migdały",
+     "g": 15.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Migdały"
+    },
+    {
+     "n": "Jogurt grecki",
+     "g": 105.0,
+     "q": 7.0,
+     "u": "łyżka",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jogurt grecki"
+    },
+    {
+     "n": "Kakao w proszku",
+     "g": 5.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Suche",
+     "zakup": "Kakao w proszku"
+    }
+   ],
+   "kroki": [
+    "Komosę{0} zalać mlekiem{1}, dodać kakao{5} i gotować aż wchłonie cały płyn (około 15-20 minut).",
+    "Dodać owoce, orzechy i resztę składników.",
+    "Wymieszać."
+   ],
+   "uwagi": "Zjeść komosankę dopiero po ostudzeniu."
+  },
+  {
+   "id": "owsianka-jogurtowa-z-borowkami",
+   "nazwa": "Owsianka jogurtowa z borówkami",
+   "posilek": "Kolacja",
+   "porcje": 1,
+   "kcal": 502.0,
+   "B": 14.0,
+   "T": 26.0,
+   "W": 58.0,
+   "zdjecie": "img/owsianka-jogurtowa-z-borowkami.jpg",
+   "skladniki": [
+    {
+     "n": "Płatki owsiane górskie",
+     "g": 50.0,
+     "q": 50.0,
+     "u": "g",
+     "dzial": "Suche",
+     "zakup": "Płatki owsiane górskie"
+    },
+    {
+     "n": "Jogurt grecki",
+     "g": 150.0,
+     "q": 150.0,
+     "u": "g",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Jogurt grecki"
+    },
+    {
+     "n": "Borówki amerykańskie",
+     "g": 100.0,
+     "q": 2.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Borówki amerykańskie"
+    },
+    {
+     "n": "Migdały",
+     "g": 15.0,
+     "q": 1.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Migdały"
+    }
+   ],
+   "kroki": [
+    "Płatki{0} ugotować na wodzie lub zalać ciepłą wodą i odstawić do zmięknięcia.",
+    "Owsiankę wymieszać z jogurtem{1}, podać z owocami i migdałai{3}."
+   ],
+   "uwagi": ""
+  },
+  {
+   "id": "quinoa-z-aromatycznym-szpinakiem-grillowanym-halloumi-i-praz",
+   "nazwa": "Quinoa z aromatycznym szpinakiem, grillowanym halloumi i prażonym słonecznikiem",
+   "posilek": "Kolacja",
+   "porcje": 2,
+   "kcal": 544.0,
+   "B": 25.0,
+   "T": 31.0,
+   "W": 44.0,
+   "zdjecie": "img/quinoa-z-aromatycznym-szpinakiem-grillowanym-halloumi-i-praz.jpg",
+   "skladniki": [
+    {
+     "n": "Komosa ryżowa (quinoa)",
+     "g": 100.0,
+     "q": 100.0,
+     "u": "g",
+     "dzial": "Suche",
+     "zakup": "Komosa ryżowa (quinoa)"
+    },
+    {
+     "n": "Oliwa z oliwek",
+     "g": 10.0,
+     "q": 2.0,
+     "u": "łyżeczka",
+     "dzial": "Przyprawy",
+     "zakup": "Oliwa z oliwek"
+    },
+    {
+     "n": "Cebula czerwona",
+     "g": 45.0,
+     "q": 0.5,
+     "u": "sztuka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cebula czerwona"
+    },
+    {
+     "n": "Szpinak",
+     "g": 100.0,
+     "q": 4.0,
+     "u": "garść",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Szpinak"
+    },
+    {
+     "n": "Sól",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Sól"
+    },
+    {
+     "n": "Pieprz czarny",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Pieprz czarny"
+    },
+    {
+     "n": "Czosnek",
+     "g": 4.0,
+     "q": 1.0,
+     "u": "ząbek",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Czosnek"
+    },
+    {
+     "n": "Słodka papryka przyprawa",
+     "g": 2.0,
+     "q": 2.0,
+     "u": "szczypta",
+     "dzial": "Przyprawy",
+     "zakup": "Papryka słodka mielona"
+    },
+    {
+     "n": "Sok z cytryny",
+     "g": 3.0,
+     "q": 1.0,
+     "u": "łyżeczka",
+     "dzial": "Warzywa i owoce",
+     "zakup": "Cytryna (sok)"
+    },
+    {
+     "n": "Nasiona słonecznika",
+     "g": 20.0,
+     "q": 2.0,
+     "u": "łyżka",
+     "dzial": "Suche",
+     "zakup": "Nasiona słonecznika"
+    },
+    {
+     "n": "Ser Halloumi",
+     "g": 100.0,
+     "q": 2.5,
+     "u": "plaster",
+     "dzial": "Nabiał i lodówka",
+     "zakup": "Ser Halloumi"
+    },
+    {
+     "n": "Pomidory suszone w zalewie",
+     "g": 40.0,
+     "q": 2.0,
+     "u": "sztuka",
+     "dzial": "Suche",
+     "zakup": "Pomidory suszone w zalewie"
+    }
+   ],
+   "kroki": [
+    "Komosę ryżową{0} ugotować zgodnie z instrukcją na opakowaniu.",
+    "Na rozgrzaną oliwę z oliwek{1} dodać posiekaną cebulę{2} i podsmażyć do zeszklenia.",
+    "Dodać umyty i osączony szpinak{3}, dusić kilka minut, aż zmniejszy objętość i odparuje nadmiar wody.",
+    "Doprawić solą{4}, pieprzem{5}, przeciśniętym czosnkiem{6}, słodką papryką{7} i sokiem z cytryny{8}.",
+    "Nasiona słonecznika{9} podprażyć na suchej patelni.",
+    "Szpinak wymieszać z ugotowaną komosą i pokrojonymi pomidorami suszonymi{11}, posypać nasionami słonecznika, dodać zgrillowany ser{10}.",
+    "Można też dodać świeżego pomidora."
+   ],
+   "uwagi": ""
+  }
+ ]
+}
