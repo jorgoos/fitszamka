@@ -89,6 +89,7 @@ button{font:inherit;color:inherit;cursor:pointer}
 .q{background:var(--accent-soft);color:var(--accent);font-weight:600;border-radius:6px;padding:0 5px;white-space:nowrap}
 .note{margin-top:14px;padding:12px 14px;border-radius:12px;background:var(--herb-soft);font-size:.92rem}
 .nosteps{color:var(--muted);font-size:.92rem}
+.cta-space{height:calc(80px + env(safe-area-inset-bottom,0px))}
 .cta{position:fixed;left:0;right:0;bottom:calc(64px + env(safe-area-inset-bottom,0px));z-index:6;padding:10px max(16px,env(safe-area-inset-left,0px)) 10px max(16px,env(safe-area-inset-right,0px));background:linear-gradient(to top,var(--bg) 70%,transparent)}
 .btn{display:block;width:100%;max-width:728px;margin:0 auto;border:0;border-radius:14px;padding:14px 18px;background:var(--accent);color:#fff;font-weight:600;font-size:1rem}
 .btn.ghost{background:var(--surface);color:var(--ink);border:1px solid var(--line)}
@@ -240,6 +241,7 @@ function renderRecipe(id){
    <h3 class="sec">Składniki</h3><ul class="ings" id="ings"></ul>
    <h3 class="sec">Przygotowanie</h3><div id="steps"></div>
    ${r.uwagi?`<div class="note">${esc(r.uwagi)}</div>`:""}
+   <div class="cta-space" aria-hidden="true"></div>
    <div class="cta"><button class="btn" type="button" id="add"></button></div>`;
   document.getElementById("back").onclick=()=>go("");
   app.querySelectorAll(".stepper button").forEach(b=>b.onclick=()=>{
